@@ -1,0 +1,14 @@
+archive/*
+build/*
+dist/*
+out/*
+.vscode/*
+*.class
+*.pyc
+*.pyo
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
